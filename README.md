@@ -1,4 +1,4 @@
-# Gopal's Portfolio Website
+# MY Portfolio Website
 
 A creative, playful, and professional personal portfolio website built with modern minimalist design principles.
 
@@ -118,4 +118,4 @@ Built with vanilla HTML, CSS, and JavaScript.
 
 ---
 
-**© 2024 Gopal. Built with creativity and code.**
+**Built with creativity and code.**
