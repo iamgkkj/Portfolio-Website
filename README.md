@@ -2,6 +2,32 @@
 
 A creative, playful, and professional personal portfolio website built with modern minimalist design principles.
 
+<div align="center">
+
+# ✦ Gopal's Portfolio
+
+### Software Developer · Full-Stack · Backend · Cloud
+
+<a href="https://iamgkkj.github.io/Portfolio-Website/">
+  <img src="https://img.shields.io/badge/✦_Live_Portfolio-E8E6FF?style=for-the-badge&labelColor=17171A&color=E8E6FF" alt="Live Portfolio">
+</a>
+
+<br><br>
+
+<a href="https://iamgkkj.github.io/Portfolio-Website/">
+  <img
+    src="https://github.com/iamgkkj/Portfolio-Website/blob/0b4c6a046fdd04f8443cc12554a1e204659d83b6/assets/qr/portfolio%20website.png?raw=true"
+    alt="QR Code - Visit Portfolio"
+    width="180"
+  />
+</a>
+
+<br>
+
+**Scan the QR code to visit the live website ↗**
+
+</div>
+
 ## Design Philosophy
 
 This portfolio follows an editorial, Swiss-inspired design aesthetic with:
